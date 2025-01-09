@@ -1,1 +1,1 @@
-# RAG-Q-A-Conversation-With-PDF-Including-Chat-History
+# RAG Q&A Conversation With PDF Including Chat History
